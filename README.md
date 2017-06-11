@@ -4,7 +4,7 @@ I just tried to draw using a keynote. If you want to redraw and change a bit. Do
 ![](./media/media.015.png)
 
 ## TODO
-* [ ] png with transparent background
+* [x] png with transparent background
 * [ ] various size
 * [ ] black background version
 
