@@ -1,19 +1,18 @@
-<p style="text-align:center">
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/001.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/002.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/003.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/004.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/005.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/006.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/007.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/008.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/009.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/010.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/011.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/012.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/013.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/014.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/015.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/016.png" style="display:block;" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/017.png" style="display:block;" />
-</p>
+|----------------|
+| ![](./001.png) |
+| ![](./002.png) |
+| ![](./003.png) |
+| ![](./004.png) |
+| ![](./005.png) |
+| ![](./006.png) |
+| ![](./007.png) |
+| ![](./008.png) |
+| ![](./009.png) |
+| ![](./010.png) |
+| ![](./011.png) |
+| ![](./012.png) |
+| ![](./013.png) |
+| ![](./014.png) |
+| ![](./015.png) |
+| ![](./016.png) |
+| ![](./017.png) |
