@@ -6,6 +6,7 @@ I just tried to draw using a keynote
 ## TODO
 * [ ] png with transparent background
 * [ ] various size
+* [ ] black background version
 
 ## License
 MIT
