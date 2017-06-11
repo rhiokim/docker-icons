@@ -1,19 +1,17 @@
-<p style="text-align:center">
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/001.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/002.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/003.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/004.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/005.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/006.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/007.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/008.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/009.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/010.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/011.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/012.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/013.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/014.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/015.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/016.png" />
-  <img src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/transparent/017.png" />
-</p>
+![](./001.png)
+![](./002.png)
+![](./003.png)
+![](./004.png)
+![](./005.png)
+![](./006.png)
+![](./007.png)
+![](./008.png)
+![](./009.png)
+![](./010.png)
+![](./011.png)
+![](./012.png)
+![](./013.png)
+![](./014.png)
+![](./015.png)
+![](./016.png)
+![](./017.png)
